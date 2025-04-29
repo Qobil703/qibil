@@ -1,0 +1,54 @@
+.box{
+ width: 1440px;
+ height: 1024px;
+ background-color: #2A5D5A;
+}
+.h1{
+    width: 636;
+height: 116;
+text-align: center;
+
+}
+.xx{
+    display: flex;
+    border: 2px;
+    border-color: black;
+    background-color: #311313;
+    width: 636px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.boxx{
+    
+    width: 1000px;
+    height: 638px;
+    border: 10px solid red;
+    background-color: black;
+    margin: auto;
+    margin-top: 35px;
+
+}
+.boox{
+    width: 75%;
+    height: 40%;
+    background-color: aqua;
+    margin-top: 54px;
+    margin-left: 100px;
+    margin: 40 40;
+}
+.text{
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 40 40;
+}
+.booxx{
+    width: 75%;
+    height: 40%;
+    background-color: aqua;
+    margin-top: 54px;
+    margin-left: 100px;
+    margin: 40 40;
+}
